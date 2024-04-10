@@ -2,6 +2,8 @@
 
 ## [Markdown教程] 
 
+此文件打开尽量使用Typora，有更好的查看效果！
+
 ### Typora
 
 Typora 应该是被广泛用于写 Markdown 的文本软件, 就和 Markdown 语法一样高效. 而且它还有很实用的扩展语法与自定义样式的功能. 其能将 `.md` 导出成多种文件, 如 `.pdf`, `.html`, `.docx` (没想到吧, 能导出到 Word
