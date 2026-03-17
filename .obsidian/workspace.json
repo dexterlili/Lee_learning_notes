@@ -179,9 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c973499dab633213",
+  "active": "06898086a754c0b3",
   "lastOpenFiles": [
-    "语言/Rust",
-    "语言/Rust/基础知识.md"
+    "Markdown_Typora.md",
+    "未命名.md",
+    "语言/Rust/基础知识.md",
+    "语言/Rust"
   ]
 }
